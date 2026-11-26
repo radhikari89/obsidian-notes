@@ -1,0 +1,14 @@
+# Obsidian device-specific settings and plugins
+*.obsidian/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and sensitive files
+.trash/
+.env
+.env.*
+*.pem
+*.key
