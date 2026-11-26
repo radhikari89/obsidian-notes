@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "26bc205734c460bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64b3e32c9f14d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abbc9dc31818cea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/00 - Course Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Course Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4015b1fb8dd0ed3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e320782235a372ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633278dac4a158d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a77e5cc84f0aabbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0897e45bd43dc415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8731f332000c8fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02537449a491cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c992cb6c28eebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/00 - Course Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b5202fdef3ce94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/00 - Course Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1a59c0344af22f05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05142159ebcdf3d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "081d8a9a28971927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/00 - Course Overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "abbc9dc31818cea1",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/00 - Course Overview.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/01 - Generative AI Fundamentals.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/02 - Foundation Model Architecture.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/03 - Amazon Bedrock Integration.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/04 - Proof of Concept.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/05 - Production Readiness.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/06 - Well-Architected Framework.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/07 - Standardized Components.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/08 - Practical Implementation.md",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design/09 - Exam Revision.md",
+    "AWS Generative AI",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration/1.1 - Analyze Requirements and Design",
+    "AWS Generative AI/Domain 1 - Foundation Model Integration"
+  ]
+}
